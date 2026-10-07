@@ -1,0 +1,1 @@
+import{T as e,f as t}from"./data-BxfaTuow.js";import{t as n}from"./StranaSortimentu-BuvHEvoY.js";var r=e(),i=()=>(0,r.jsx)(n,{nadpis:[`Športové`,{z:`oblečenie`}],perex:`Under Armour — oblečenie, obuv a doplnky.`,foto:t,alt:`Zložené tričká, šortky a tréningová obuv`,text:`Under Armour — oblečenie, obuv a doplnky.`});export{i as component};

@@ -1,0 +1,1 @@
+import{T as e,d as t}from"./data-BxfaTuow.js";import{t as n}from"./StranaSortimentu-BuvHEvoY.js";var r=e(),i=()=>(0,r.jsx)(n,{nadpis:[`Tejpy`,{z:`D3`}],perex:`Športové tejpovacie pásky.`,foto:t,alt:`Kotúče bielej a béžovej tejpovacej pásky na ľanovej látke`,text:`Športové tejpovacie pásky.`});export{i as component};

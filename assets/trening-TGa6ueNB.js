@@ -1,0 +1,1 @@
+import{T as e,m as t}from"./data-BxfaTuow.js";import{t as n}from"./StranaSortimentu-BuvHEvoY.js";var r=e(),i=()=>(0,r.jsx)(n,{nadpis:[`Tréningové`,{z:`náradie`}],perex:`Vybavenie na kondičnú prípravu.`,foto:t,alt:`Kettlebelly, odporové gumy a švihadlo v svetlej posilňovni`,text:`Vybavenie na kondičnú prípravu.`});export{i as component};

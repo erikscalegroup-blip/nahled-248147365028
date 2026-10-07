@@ -1,0 +1,1 @@
+var e=`/assets/uchop-Dq_-Jol2.jpg`;export{e as t};

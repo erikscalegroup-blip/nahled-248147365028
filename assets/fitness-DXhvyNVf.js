@@ -1,0 +1,1 @@
+import{T as e,p as t}from"./data-BxfaTuow.js";import{t as n}from"./StranaSortimentu-BuvHEvoY.js";var r=e(),i=()=>(0,r.jsx)(n,{nadpis:[`Fitness`,{z:`stroje`}],perex:`Stroje na domácu aj klubovú posilňovňu.`,foto:t,alt:`Kladkový stroj a lavica v svetlej domácej posilňovni`,text:`Stroje na domácu aj klubovú posilňovňu.`});export{i as component};

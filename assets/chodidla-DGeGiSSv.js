@@ -1,0 +1,1 @@
+var e=`/assets/chodidla-B7HSHr6f.jpg`;export{e as t};
